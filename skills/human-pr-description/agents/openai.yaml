@@ -1,0 +1,3 @@
+interface:
+  display_name: "Human PR Description"
+  short_description: "Write a PR description around behavior and visuals, not code"

@@ -1,0 +1,15 @@
+{
+  "name": "avinav-skills",
+  "version": "0.6.0",
+  "description": "Avinav's agent skills.",
+  "author": {
+    "name": "avinav-b",
+    "url": "https://github.com/avinav-b"
+  },
+  "homepage": "https://github.com/avinav-b/skills",
+  "repository": "https://github.com/avinav-b/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills"
+  ]
+}

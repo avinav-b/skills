@@ -1,0 +1,12 @@
+{
+  "name": "avinav-skills",
+  "private": true,
+  "description": "Dev scripts for this skills repo. Not published to npm.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/validate.mjs && claude plugin validate .",
+    "new": "bash scripts/new-skill.sh",
+    "link": "bash scripts/link-skills.sh"
+  }
+}

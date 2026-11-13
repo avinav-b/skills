@@ -1,0 +1,7 @@
+interface:
+  display_name: "__TITLE__"
+  short_description: "TODO"
+# For a skill only a human should start, uncomment this and add
+# `disable-model-invocation: true` to SKILL.md:
+# policy:
+#   allow_implicit_invocation: false

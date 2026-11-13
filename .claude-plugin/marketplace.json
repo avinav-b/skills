@@ -1,0 +1,15 @@
+{
+  "name": "avinav-b",
+  "owner": {
+    "name": "avinav-b",
+    "url": "https://github.com/avinav-b"
+  },
+  "description": "Avinav's agent skills, as an installable plugin.",
+  "plugins": [
+    {
+      "name": "avinav-skills",
+      "source": "./",
+      "description": "Avinav's agent skills."
+    }
+  ]
+}

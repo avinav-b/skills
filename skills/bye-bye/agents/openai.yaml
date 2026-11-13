@@ -1,0 +1,5 @@
+interface:
+  display_name: "Bye-Bye"
+  short_description: "Investigate, fix, critique, and open a PR end to end"
+policy:
+  allow_implicit_invocation: false

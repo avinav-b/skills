@@ -1,0 +1,3 @@
+interface:
+  display_name: "Blind UI Comparison"
+  short_description: "Iterate a UI until blind critics rate it above comparable apps"
